@@ -2,16 +2,16 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
-*A greater understanding of HTML, CSS, Javascript and jQuery. I wanted to get a good foundation on codeing, really wanted to learn how to write and read code. 
+I applied to Turing because I want a better quaity of life for me and my kids. I really wanted to learn how 
+to work in javascript, and have a better understanding of how code is structured and how it operates. 
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 4
+* **E: Community Participation**: 4
 
 -----------------------
 
@@ -19,213 +19,113 @@
 
 (Indicate whether you passed or failed the end of module assessment)
 
-
 ## B: Individual Work & Projects
 
-The individual projects consisted of Number Guesser and the 3 Static Comps.
+I realy enjoy seeing how things relate to each other and being able to create something new that did not exist before. The projects were increasing with difficulty. I really enjoyed being able to build upon the experience we gainned in class.
 
-#### Static-Comp-1 
-* [GitHub URL](https://github.com/bmtiedt/bmtiedt-bt-comp-challenge-1)
+#### Static Comp Challenge 1
+
+* [GitHub URL] (https://github.com/bmtiedt/bt-comp-challenge-1)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
 
-The static comp challenge is a series of three challenges to keep you working that HTML/CSS muscle. :muscle: You will be asked to recreate a static comp, with each growing in complexity. For each challenge, you’ll be given a static comp and asked to recreate it. Don’t worry, we’ll give you a bit of creative license, however the objective is to build something that respects the integrity of the original design. Once you get into the workforce - building out comps that reflect the designer’s choice in layout, spacing, font, imagery, and color to the smallest detail is a requirement.
+Static Comp Challenge 1 -  I really enjoyed learning CSS flexbox and grid and how 
+shifting grid and flex properties can make responsive design much easier. FlexBoxFroggy and CssGridGarden are great tools and a fun way to get familiar with those plans.
 
-#### Static-Comp-2 
-* [GitHub URL](https://github.com/bmtiedt/bmt-comp-challenge-2)
+#### Static Comp Challenge 2
+
+* [GitHub URL](https://github.com/bmtiedt/bt-comp-challenge-2.0)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
 
-The static comp challenge is a series of three challenges to keep you working that HTML/CSS muscle. :muscle: You will be asked to recreate a static comp, with each growing in complexity. For each challenge, you’ll be given a static comp and asked to recreate it. Don’t worry, we’ll give you a bit of creative license, however the objective is to build something that respects the integrity of the original design. Once you get into the workforce - building out comps that reflect the designer’s choice in layout, spacing, font, imagery, and color to the smallest detail is a requirement.
+This comp challenge is my favorite. Taking the advice of my instructors, in that this is a tool to attain a job; I chose a subject that I have conection to, which made the project much eaiser to focus on details.
 
-#### Static-Comp-3 
-* [GitHub URL](https://github.com/bmtiedt/bt-comp-challenge-3)
-* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
+#### Number Guesser
 
-The static comp challenge is a series of three challenges to keep you working that HTML/CSS muscle. :muscle: You will be asked to recreate a static comp, with each growing in complexity. For each challenge, you’ll be given a static comp and asked to recreate it. Don’t worry, we’ll give you a bit of creative license, however the objective is to build something that respects the integrity of the original design. Once you get into the workforce - building out comps that reflect the designer’s choice in layout, spacing, font, imagery, and color to the smallest detail is a requirement.
+* [GitHub URL](https://github.com/bmtiedt/bt-number-guesser1.2)
+* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
-#### Number Guesser 
-* [GitHub URL](https://github.com/bmtiedt/bt-guesser-M1)
-* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
+Number Guesser is the first project that starts off Javascript.There are a number of hurdles to cross, being the first Js project; preventDefault, toggleButton, clearInput.......these items become staples that are used very frequently.
 
-Build a game where the user guesses a number between 1 and 100.
-
-Incomplete - worked mostly on dog party
-
-n/a
-
-## C: Group Work & Projects
+* [Feedback](https://github.com/turingschool/front-end-submissions-public/blob/master/1804/mod-1/number-guesser/brian-tiedt.md)
 
 ### Projects
 
-(Intro)
+Paring projects are a great way for both people to not only learn about coding but is a great way to learn how to interact with various personalities.  
 
-#### (Linked-List)
+#### Linked List
 
-* [GitHub URL](https://github.com/andrew-t-james/linked-list)
+* [GitHub URL](https://github.com/bmtiedt/bt-ct-linked-listx)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
-In it’s simplest form, the application should have the following:
-Two input fields
-One for the title of the bookmark
-One for the URL that the bookmark should link to
-One button for creating the bookmark and adding it to the page
-A section for all of the created bookmarks; each bookmark should display:
-The title of the bookmark
-The URL of the bookmark (this should be clickable and link to the URL)
-A button to “Mark as Read”
-A button to “Remove” the bookmark
+Linked List is a web application that a user can access to compile a list of web bookmarks for later viewing. 
+This project introduced the concepts of `this`, dynamically generated page content, and event bubbling and 
+delegation. I really enjoyed this project; working with David was definitely a highlight. He really helped me get a
+ jumpstart on understanding jQuery. 
 
-## Student:
-## Evaluator:
-## Notes/What To Work On:
+* [Feedback](https://github.com/turingschool/front-end-submissions-public/blob/master/1804/mod-1/linked-list/brian-cody.md)
 
-## Functional Expectations
+#### IdeaBox
 
-* Exceptional: You completed Phase Three and did something with Phase Four.
-- no unread count
-
-## COMP RECREATION / DESIGN
-
-* Proficient  
-I would remove the overflow scroll on the list
-
-## HTML
-consider using a ul element for your list of link cards
-Love all the aria
-* Proficient  
-
-## CSS
-* Exceptional  
-
-## JS/jQuery
-Some areas for refactoring, love how you found the parent element
-* Proficient  
-
-## GIT & GITHUB
-* Proficient  
-
-## Pairing/Collaboration
-* Proficient  
-
-#### (Idea-Box)
-
-* [GitHub URL](https://github.com/TwirlingGoddess/BoxIdea)
+* [GitHub URL](https://github.com/bmtiedt/bt-jh-ideabox)
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 
-Every developer has more ideas than time. As David Allen likes to say “the human brain is for creating ideas, not remembering them.” In this project, we’ll be building a simple application for recording and archiving our ideas (good and bad alike).
+IdeaBox is a web application that a user can access to compile a list of their greatest ideas. AND! It 
+persists on page load. This project introduced the concepts of local storage, JSON, and array prototype 
+methods. I liked that this project  was truly functional, in the sense that I could host this code somewhere 
+and someone could presumably use this application.  
 
-Throughout the project, one of our focuses will be on providing a fluid and responsive client-side interface. To this end, we’ll rely on JavaScript and jQuery to implement snappy filtering in the browser, and localStorage to persist our wonderful ideas between sessions.
+* [Feedback](https://github.com/turingschool/front-end-submissions-public/blob/master/1804/mod-1/idea-box/justin-brian.md)
 
-## Notes/What To Work On:
+#### 2DoBox - Pivot
 
-## Functional Expectations
-
-* Exceptional: You completed Phase Three and did something with Phase Four.
-- no unread count
-
-## COMP RECREATION / DESIGN
-
-* Proficient  
-I would remove the overflow scroll on the list
-
-## HTML
-consider using a ul element for your list of link cards
-Love all the aria
-* Proficient  
-
-## CSS
-* Exceptional  
-
-## JS/jQuery
-Some areas for refactoring, love how you found the parent element
-* Proficient  
-
-## GIT & GITHUB
-* Proficient  
-
-## Pairing/Collaboration
-* Proficient  
-
-#### (To-Do-Box)
-
-* [GitHub URL](https://github.com/TwirlingGoddess/BoxIdea)
+* [GitHub URL](https://github.com/turingschool/front-end-submissions-public/blob/master/1804/mod-1/to-do-box/michael-brian.md)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 
-Do you remember that project IdeaBox?…
+For me, 2DoBox was less about the project itself than it was about learning how to approach someone else' 
+codebase. I think my initial response would have been to burn it all down. I feel like this project gave me some insight into what it will be like to work on code that I didn't write, and why developer empathy is so important. 
 
-We thought they were pretty great, but, we think it’s time to pivot those projects over to something we like to call 2DoBox.
+* [Feedback](https://github.com/turingschool/front-end-submissions-public/blob/master/1804/mod-1/to-do-box/michael-brian.md)
 
-You will be inheriting someone’s previous IdeaBox and pivoting it over to 2DoBox.
-
-
-## Students: Arram and Brian T
-## Evaluator: David Whitaker
-## Notes/What To Work On:
-
-* Great constructor function name 
-* Pull shared css blocks into more broad class rules
-* Think about leveraging one function to combine functions that look identical
-* Make sure that tabs are set to 2 spaces for consistency
-* Work on js naming conventions - if its an id string call it id
-
-## Functional Expectations
-
-* Advanced Beginner  
-
-## HTML
-
-#### Accessibility
-
-* Proficient  
-
-#### Style
-
-* Proficient  
-
-## CSS
-
-#### Structure of Code
-
-* Advanced Beginner  
-
-#### Implementation
-
-* Advanced Beginner  
-
-## JAVASCRIPT
-
-#### Data Types
-
-* Advanced Beginner  
-
-
-## D: Professional Skills
-Turing helps with developing professional skills. 
 
 ### Gear Up
-#### (Health and Wellness)
+
+This mod we began to cultivate the soft skills that will eventually help us in our development careers. While I sometimes
+went to these sessions begrudgingly, I can definitely see their value and how they will help us in our professional lives.
+
+#### Week 1: Mental Health 101
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod1_Week1_mental_health_101.md)
 
-This was a very useful tool for me. This time here is very challenging and keeping a stess levels at a reasobable level is key. This is not a tool I have employed before and have found it to be very relevant.
+We began our gear ups at Turing by discussing mental health. I think that this gear up helped me remember the unproductive things I do to help me manage my stress. The reality is that Turing is really intense, so I think it was really valuable to reflect on all of the different ways to approach
+ and manage stress under a heavy workload. 
 
-#### (Working Styles)
+#### Week 2: Working Styles
 
-This gear up gave me a better understanding of how I facilitate a better more well rounded experience here at Turing.
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_intro_extro_ambivert_styles.markdown)
 
-#### (Code Debugging The Gender Gap)
+During this session, we discussed the multitude of different working styles that people have. We lined 
+ourselves up on a spectrum from extroversion to introversion. Having a baseline understanding of where
+people are coming from helps me understand what I need to do to give my peers the best possible chance
+of being successful and making a contribution to my cohort myself. I can use my strength of initiator to 
+activate others and leverage their abilities. 
 
-In this Gear Up we discussed the inclusion of all people. Diversity in the industry is the only way to include products and services that can helpeveryone.
+#### Week 3: Code Debugging The Gender Gap
 
-#### (Mod 4 Lead)
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod1_Week3_Code_debugging_compact_version.md)
 
-Being Mindful of yourself, taking care for yourself. Time at Turing can provide long hours of inactivity and it's important for mental and phyical health to br mindful of those needs.
+Representation and equality are values that I hold really strongly. I really appreciate that Turing is so 
+focused on creating an inclusive and representative space. I think that the clips of the documentary 
+that we watched really helped me understand the pitfalls of the development community and how much more 
+work needs to be done for the technology sector to truly represent the people that are using their products. 
 
+#### Week 4: Winning through failing, Mod 4 facilitated
+
+I really enjoyed watching the mod 4 students lead their own gear ups. This was a great insight to how we should take our failures as progress and not as a loss.
 
 ## E: Community Participation
 
 ### Playing a Part
 
-As a Mod1 student I was able to contribute to helping keep the kitchen and common areas clean. I was helpful to those students that needed some direction. Participation was a big part of my time at Turing.
+I really enjoyed being able to help with my fellow humans with whatever obsticles come there way. If I was not able to help them directly, I was able to point them in the right direction.
 
 ------------------
 
